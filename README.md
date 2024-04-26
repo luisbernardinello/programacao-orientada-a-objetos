@@ -1,28 +1,27 @@
-# Programação Orientada a Objetos
-
-![java](https://img.shields.io/badge/BCC-UNESP-Bauru.svg)
+![Unesp](https://img.shields.io/badge/BCC-UNESP-Bauru.svg)
 ![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
+# Objected Oriented Programming :high_brightness:
+![object-oriented-programming](https://socialify.git.ci/luisbernardinello/object-oriented-programming/image?font=Raleway&language=1&name=1&owner=1&pattern=Plus&theme=Light)
+## :pushpin::pushpin: What will you find? :pushpin::pushpin:
+
+This repository contains three projects developed for the Object-Oriented Programming course
+
+<br>
+
+### Projects from this repository :telescope::telescope:
 
 
-
-
-### Projetos deste repositório
-
-Este repositório contém três projetos desenvolvidos para a disciplina de Programação Orientada a Objetos
-1. [8bit Chess](8bit-chess-pygame) - jogo desenvolvido em _pygame_. uma biblioteca projetada para facilitar o desenvolvimento de jogos usando python. O jogo se trata de um jogo de xadrez utilizando sprites pixeladas animadas.
-2. [Blood Eagle](blood-eagle-java) - jogo desenvolvido usando somente _java_, com o proposito de não utilizar nenhum tipo de biblioteca ou engine durante o desenvolvimento. Jogo feito utilizando o conceito de tilemap e spriteatlas, consiste em um jogo plataforma de luta 2d contendo dois vikings em pixel art, quando um deles morre o jogo se encerra. (este jogo falta desenvolver a parte de comunicação pelo java sockets, permitindo ser jogado pela rede)
-3. [TCP Chat Room](tcp-chat-room-java) - projeto de um chat de comunicação por rede utilizando _java_, java sockets e interface pelo swing 
+1. [8bit Chess](8bit-chess-pygame) - A game developed in _Python_, using the _Pygame_ library to facilitate game development. The game features animated pixelated sprites and is a chess game.
+2. [Blood Eagle](blood-eagle-java) - A game developed 100% in _Java_, with the purpose of not using any libraries or engines during his development. It utilizes tilemap and spriteatlas concepts and is a 2D fighting platform game featuring two pixel art vikings. When one of them dies, the game ends.
+3. [TCP Chat Room](tcp-chat-room-java) - A project for a network communication chat room using _Java_, _Java sockets_, and a _Swing_ interface.
 
 
 <br>
 
-
-
-
 ---
 
-### Referencias
-- [1] Object Oriented Analysis and Design with Applications - Grady Booch [Livro completo aqui](livros/object-oriented-analysis-grady-booch.pdf)
+### References
+- [1] Object Oriented Analysis and Design with Applications - Grady Booch [Here](books/object-oriented-analysis-grady-booch.pdf)
 
 
 ---
